@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Correcteur Intelligent - Extension Chrome
 
 Cette extension Chrome permet de corriger automatiquement l'orthographe et la grammaire des textes en français, en respectant les règles typographiques françaises.
@@ -116,3 +117,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 ## 📝 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+=======
+# extension-correction
+>>>>>>> b9ddd947b074874bee1252a3f9d912ae4930427a
